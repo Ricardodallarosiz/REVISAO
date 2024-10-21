@@ -126,3 +126,4 @@ C:\Users\dalla\Documents\revisão\API\API\bin\Debug\net8.0\runtimes\win-x64\nati
 C:\Users\dalla\Documents\revisão\API\API\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
 C:\Users\dalla\Documents\revisão\API\API\obj\Debug\net8.0\API.csproj.AssemblyReference.cache
 C:\Users\dalla\Documents\revisão\API\API\obj\Debug\net8.0\API.csproj.Up2Date
+C:\Users\dalla\Documents\revisão\API\API\obj\Debug\net8.0\API.sourcelink.json
